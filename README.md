@@ -408,3 +408,9 @@ För lärande rekommenderas `ws`. Socket.io är ett bra nästa steg.
 - **Rum/kanaler** — gruppera klienter i separata rum
 - **Meddelandehistorik** — spara och visa senaste meddelanden till nya klienter
 - **Webb-klient** — skapa en HTML-sida som ansluter med `new WebSocket()`
+
+---
+
+## Exempel med socket.io
+
+https://pokerplanning.duckdns.org/
